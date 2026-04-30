@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hugo%20Santana&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full%20Stack%20Java%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 
