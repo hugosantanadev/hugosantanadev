@@ -21,13 +21,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Atuo no desenvolvimento backend e full stack, construindo APIs escaláveis e soluções corporativas. Trago uma forte mentalidade de *troubleshooting* ágil, forjada na resolução de incidentes críticos em ambientes operacionais de alto volume. Foco na entrega de código limpo e em arquiteturas eficientes. Baseado em Camaragibe/Recife.
-
-- 🔭 Desenvolvendo o **EcoFin** (SaaS de gestão financeira utilizando Java e React), a **API Cadastro-Ninja** e o **Action Runner** (mobile game com Kotlin e LibGDX).
-- 🌱 Aprofundando arquiteturas com **Spring Boot (WebFlux, JPA)**, **Cloud Computing (AWS)** e integração com APIs de IA.
-- ⚡ Além do código: otimização de hardware, corrida de rua (10km) e estudos em música com saxofone e clarinete.
-
----
+Atuo no desenvolvimento backend e full stack, construindo APIs escaláveis e soluções corporativas. Trago uma forte mentalidade de *troubleshooting* ágil, forjada na resolução de incidentes críticos em ambientes operacionais de alto volume. Foco na entrega de código limpo e em arquiteturas eficientes.
 
 ### 🛠️ Tecnologias e Ferramentas
 
