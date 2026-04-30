@@ -1,6 +1,6 @@
 <!-- Header Fixo e Estável -->
 <div align="center">
-  <h1>👋 Olá, eu sou o Hugo Santana!</h1>
+  <h1>Hugo Santana</h1>
   <p><b>Backend & Full Stack Java Developer</b></p>
 </div>
 
